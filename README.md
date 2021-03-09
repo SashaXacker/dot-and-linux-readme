@@ -1,5 +1,5 @@
 # Dot and linux
-#Tags
+## Tags
 To create tag you need create .desktop file with text:
 
     [Desktop Entry]
