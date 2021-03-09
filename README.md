@@ -18,7 +18,7 @@ Then copy your file to:
 
     sudo update-alternatives --config java
 
-##GitHub Connecting
+## GitHub Connecting
 In project directory:
 
     git remote add origin git@github.com:SashaXacker/repository-name.git
