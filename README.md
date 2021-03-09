@@ -6,7 +6,8 @@ To create tag you need create .desktop file with text:
     Version=1.0
     Name=<Name>
     Comment=<Comment>
-    Exec=bash -c '< start command>'
+    Exec=< start command>
+    Icon=<dir>
     Terminal=false
     Type=Application
     
