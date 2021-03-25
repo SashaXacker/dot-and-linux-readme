@@ -1,4 +1,6 @@
 # Dot and linux
+## Install powerlines fonts
+`sudo apt install fonts-powerline`
 ## Tags
 To create tag you need create .desktop file with text:
 
@@ -36,3 +38,14 @@ Typical command:
 `git commit -m "<commit>"` - Commiting pushing buffer
 
 `git push -u origin master` - pushing to github files in dir
+
+## Install ZSH
+### ZSH
+`sudo apt install zsh`
+`zsh`
+### OH-MY-ZSH
+`curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh`
+### Set theme
+`vim ~/.zshrc`
+Find `ZSH_THEME=` and update them to `ZSH_THEME=agnoster`
+For them you need install powerlines fonts
