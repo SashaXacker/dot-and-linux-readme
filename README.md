@@ -46,7 +46,7 @@ Typical command:
 
 `zsh`
 
-To set zsh default: `chsh`
+To set zsh default: `chsh ($which zsh)`
 ### OH-MY-ZSH
 `curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh`
 ### Set theme
